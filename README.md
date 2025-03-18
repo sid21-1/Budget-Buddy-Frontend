@@ -17,4 +17,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=radixui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-link to frontend repository- https://github.com/sid21-1/Budget-Buddy-Backend
+link to backend repository- https://github.com/sid21-1/Budget-Buddy-Backend
