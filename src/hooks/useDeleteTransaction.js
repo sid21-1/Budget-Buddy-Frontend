@@ -6,7 +6,7 @@ const useDeleteTransaction = () => {
   const deleteTransaction = async (transactionId) => {
     try {
       const response = await fetch(
-        `${import.meta.env.VITE_API_URL}/delete/${transactionId}`,
+        `${import.meta.env.VITE_API_URL}/transactions/delete/${transactionId}`,
         {
           method: "DELETE",
           headers: {
